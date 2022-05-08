@@ -9,10 +9,10 @@
 Simple java library for displaying dates as relative time ago language.
 
 ## Examples:
-- 4 days ago
-- 15 years ago
-- a minute ago
-- just now
+- 4d ago
+- 15y ago
+- 60s
+- Just Now
 
 ## Usage:
 
@@ -21,14 +21,14 @@ Simple java library for displaying dates as relative time ago language.
 Gradle:
 
 ```
-compile 'com.github.marlonlom:timeago:$latestVersion'
+compile 'com.github.gordonmckenzie:timeago:$latestVersion'
 ```
 
 Maven:
 
 ```xml
 <dependency>
-  <groupId>com.github.marlonlom</groupId>
+  <groupId>com.github.gordonmckenzie</groupId>
   <artifactId>timeago</artifactId>
   <version>$latestVersion</version>
 </dependency>
